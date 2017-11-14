@@ -4,5 +4,5 @@
 ### PAC_AnimalCleaningPatch
 Исправляет NRE в Pawns Are Capable у пешек-животных при уборке и копании. 
 (Housekeeper Assistant Cats и подобные моды)
-###ScrollableInspectString
+### ScrollableInspectString
 Текст в панели информации можно скроллить.
