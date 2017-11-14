@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DubsBadHygieneHSKCompPatch"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAC_AnimalCleaningPatch", "PAC_AnimalCleaningPatch\PAC_AnimalCleaningPatch.csproj", "{969CC3D9-3CFC-4B56-9CC3-CACFD701BF1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollableInspectString", "ScrollableInspectString\ScrollableInspectString.csproj", "{D67E19A2-149A-4FAE-967B-2ED48E6FD0CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{969CC3D9-3CFC-4B56-9CC3-CACFD701BF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{969CC3D9-3CFC-4B56-9CC3-CACFD701BF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{969CC3D9-3CFC-4B56-9CC3-CACFD701BF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67E19A2-149A-4FAE-967B-2ED48E6FD0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67E19A2-149A-4FAE-967B-2ED48E6FD0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67E19A2-149A-4FAE-967B-2ED48E6FD0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67E19A2-149A-4FAE-967B-2ED48E6FD0CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
