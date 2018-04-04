@@ -58,9 +58,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Building_HeaterStove_Capacity_get_Patch.cs" />
     <Compile Include="Building_Heater_Draw_Patch.cs" />
     <Compile Include="Building_Heater_Tick_Patch.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

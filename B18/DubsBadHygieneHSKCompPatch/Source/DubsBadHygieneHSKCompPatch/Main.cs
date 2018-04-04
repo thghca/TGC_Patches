@@ -28,7 +28,7 @@ namespace DubsBadHygieneHSKCompPatch
                 fueledComp != null //&& fueledComp.fuel.count >= 0
                 && fueledComp.internalTemp > fueledComp.Props.operatingTemp
                 //&& fueledComp.compFlickable != null && fueledComp.compFlickable.SwitchIsOn
-                && breakdownableComp != null && !breakdownableComp.BrokenDown);
+                && !(breakdownableComp != null && breakdownableComp.BrokenDown));
         }
     }
 }
