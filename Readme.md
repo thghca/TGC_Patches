@@ -1,4 +1,8 @@
 ## B18
+### MoreInfoBox
+Speed, Fertility, Beauty and Cleanliness of Terrains in mouseover infobox.
+	
+Скорость, Плодородность, Красота и Чистота покрытий в окошке информации.
 ### SKLangFallback
 Loads "Language" for other mods when "Language-SK" not exist.
 
