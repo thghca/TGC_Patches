@@ -69,11 +69,11 @@ namespace MoreInfoBox
                 }
 
                 if (entDef.HasStat(StatDefOf.Beauty))
-                    beauty = "MIB.Beauty".Translate(entDef.GetStat(stuffDef, StatDefOf.Beauty));
+                    beauty = "MIB.Beauty".Translate(entDef.GetStat(stuffDef, StatDefOf.Beauty).ToStringByStyle(ToStringStyle.Integer));
 
                 if (entDef.HasStat(StatDefOf.Cleanliness))
                 {
-                    cleanliness = "MIB.Cleanliness".Translate(entDef.GetStat(stuffDef, StatDefOf.Cleanliness).ToStringByStyle(ToStringStyle.Integer));
+                    cleanliness = "MIB.Cleanliness".Translate(entDef.GetStat(stuffDef, StatDefOf.Cleanliness).ToStringByStyle(ToStringStyle.FloatOne));
                 }
 
                 //extra linebreak
@@ -102,9 +102,9 @@ namespace MoreInfoBox
         private static float GetStat(this BuildableDef entDef, ThingDef stuffDef, StatDef statDef)
         {
             if (stuffDef != null)
-                return entDef.GetStatValueAbstract(StatDefOf.Beauty, stuffDef);
+                return entDef.GetStatValueAbstract(statDef, stuffDef);
             else
-                return entDef.GetStatValueAbstract(StatDefOf.Beauty);
+                return entDef.GetStatValueAbstract(statDef);
         }
 
         
