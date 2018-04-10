@@ -1,4 +1,6 @@
 ## B18
+### GiddyUpDrawWornExtrasOffset
+Dirty fix for CE apparel offset and WHands with Giddy-up
 ### MoreInfoBox
 Speed, Fertility, Beauty and Cleanliness of Terrains in mouseover infobox.
 	
