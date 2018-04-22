@@ -1,0 +1,8 @@
+<ModMetaData>
+	<name>NoIndentInSaves</name>
+	<author>TGC</author>
+	<targetVersion>0.18.0</targetVersion>
+	<description>V1.0
+No "Pretty Print" in saves. Reduce save size by 1/3. Make backup before use.
+	</description>
+</ModMetaData>

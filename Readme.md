@@ -1,4 +1,6 @@
 ## B18
+### NoIndentInSaves
+No "Pretty Print" in saves. Reduce save size by 1/3. Make backup before use.
 ### GiddyUpDrawWornExtrasOffset
 Dirty fix for CE apparel offset and WHands with Giddy-up
 ### MoreInfoBox
