@@ -1,3 +1,19 @@
+#My small mods for Rimworld game
+## R1
+### MoreInfoBox
+Speed, Fertility, Beauty and Cleanliness of Terrains in mouseover infobox.
+	
+Скорость, Плодородность, Красота и Чистота покрытий в окошке информации.
+### FreeInputCE
+Allows any characters in :
+	*Combat Extended loadout names.
+	*Outfits policies
+	*Drug policies
+	*Area names
+	
+Can be enabled/disabled at any time.
+### CustomMapSize
+Custom map sizes.
 ## B18
 ### NoIndentInSaves
 No "Pretty Print" in saves. Reduce save size by 1/3. Make backup before use.

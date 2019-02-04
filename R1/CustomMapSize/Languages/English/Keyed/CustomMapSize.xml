@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<CustomMapSize.Label>Custom Map Size</CustomMapSize.Label>
+	<CustomMapSize.FieldLabel>Size ({0} - {1}) </CustomMapSize.FieldLabel>
+	<CustomMapSize.Warning>Warning: Custom map sizes is untested.</CustomMapSize.Warning>
+	<CustomMapSize.WarningTooSmall>Warning: Map too small! You are not able to build on this. Maps have 10 cell unbuildable border at each side.</CustomMapSize.WarningTooSmall>
+	<CustomMapSize.WarningTooLarge>Warning: Map too large! Maps more then 1000 may loading Forever.</CustomMapSize.WarningTooLarge>
+</LanguageData>
