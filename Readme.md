@@ -1,4 +1,4 @@
-#My small mods for Rimworld game
+# My small mods for Rimworld game
 ## R1
 ### MoreInfoBox
 Speed, Fertility, Beauty and Cleanliness of Terrains in mouseover infobox.
