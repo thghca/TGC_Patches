@@ -94,7 +94,7 @@ namespace CustomMapSize
             {
                 listing_Standard.Label("CustomMapSize.Warning".Translate(), -1f, null);
             }
-            if (Find.GameInitData.mapSize <= sizeTooSmall)
+            if (Find.GameInitData.mapSize < sizeTooSmall)
             {
                 listing_Standard.Label("CustomMapSize.WarningTooSmall".Translate(), -1f, null);
             }

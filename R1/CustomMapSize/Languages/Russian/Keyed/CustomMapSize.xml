@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	<CustomMapSize.Label>Свой размер карты</CustomMapSize.Label>
-	<CustomMapSize.FieldLabel>Размер({0}-{1})</CustomMapSize.FieldLabel>
+	<CustomMapSize.FieldLabel>Размер(&lt;{1})</CustomMapSize.FieldLabel>
 	<CustomMapSize.Warning>Внимание: Нестандартные размеры карт не тестировались!</CustomMapSize.Warning>
 	<CustomMapSize.WarningTooSmall>Внимание: Карта слишком мала! Вы не сможете строить на ней. Карты имеют границы в 10 клеток на которых нельзя строить.</CustomMapSize.WarningTooSmall>
 	<CustomMapSize.WarningTooLarge>Внимание: Карта слишком большая! Карты больше, чем 1000 могут загружатся Вечно.</CustomMapSize.WarningTooLarge>
